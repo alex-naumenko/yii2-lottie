@@ -1,0 +1,29 @@
+{
+    "name": "alex-naumenko/yii2-lottie",
+    "description": "Yii2 Widget for play .lottie files",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","lottie","player"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandr",
+            "email": "alexandrr.naumenko@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev-master",
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "npm-asset/dotlottie--player-component": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "alexnaumenko\\lottie\\": "src"
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
