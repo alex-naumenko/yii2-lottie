@@ -10,10 +10,10 @@
             "email": "alexandrr.naumenko@gmail.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "stable",
     "require": {
         "yiisoft/yii2": "~2.0.0",
-        "npm-asset/dotlottie--player-component": "*"
+        "npm-asset/dotlottie--player-component": "0.1.1"
     },
     "autoload": {
         "psr-4": {
