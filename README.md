@@ -3,6 +3,10 @@ Lottie player widget
 Yii2 Widget for play ```.lottie``` files.
 Based on js lib [dotlottie-player Web Component](https://github.com/dotlottie/player-component#dotlottie-player-web-component)
 
+## Demo
+
+![screencast](https://i.imgur.com/miLzIkJ.gif)
+
 Installation
 ------------
 
