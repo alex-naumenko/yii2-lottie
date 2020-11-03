@@ -1,8 +1,4 @@
 <?php
-/**
- * Copyright © 2020 GBKSOFT. Web and Mobile Software Development.
- * See LICENSE.txt for license details.
- */
 
 use yii\web\View;
 use yii\helpers\Html;
