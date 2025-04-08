@@ -1,6 +1,6 @@
 {
     "name": "alex-naumenko/yii2-lottie",
-    "description": "Yii2 Widget for play .lottie files",
+    "description": "Yii2 widget for playing .lottie files",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","lottie","player"],
     "license": "MIT",
