@@ -17,7 +17,7 @@ class LottieAsset extends AssetBundle
 
     public $js = [
         #"dist/dotlottie-player.js",
-        "https://unpkg.com/@dotlottie/player-component@0.1.2/dist/dotlottie-player.js" # tempered solution
+        "https://unpkg.com/@dotlottie/player-component@0.1.2/dist/dotlottie-player.js" # temporary solution
     ];
 
     public $depends = [
