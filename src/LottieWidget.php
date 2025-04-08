@@ -1,5 +1,4 @@
 <?php
-
 declare(strict_types=1);
 
 namespace alexnaumenko\lottie;
@@ -24,13 +23,13 @@ class LottieWidget extends Widget
     /** @var bool - Autoplay animation on load. */
     public $autoplay = true;
 
-    /** @var bool - Show controls.*/
+    /** @var bool - Show controls. */
     public $controls = true;
 
-    /** @var bool - Whether to loop animation.*/
+    /** @var bool - Whether to loop animation. */
     public $loop = true;
 
-    /** @var string - Play mode.*/
+    /** @var string - Play mode. */
     public $mode = "normal";
 
     /** @var null|int - Number of times to loop animation. */
@@ -51,10 +50,10 @@ class LottieWidget extends Widget
     /** @var int - Animation speed. */
     public $speed = 1;
 
-    /** @var string - URL to .lottie file.*/
+    /** @var string - URL to .lottie file. */
     public $src;
 
-    /** @var array - Inline css part of html options*/
+    /** @var array - Inline css part of html options */
     public $style;
 
     public $jsExpression;
